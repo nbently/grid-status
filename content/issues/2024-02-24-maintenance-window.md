@@ -1,6 +1,6 @@
 ---
 title: Storage cluster maintenance 
-date: 2022-04-04 15:25:00
+date: 2022-04-04 19:25:00
 informational: true
 resolved: false
 severity: disrupted
