@@ -144,7 +144,7 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: Baltimore
-      description: Production home cluster.
+      description: Primary location.
       closed: false
 
   # These are your systems. Change them to
@@ -157,7 +157,9 @@ params:
   systems:
     - name: Gateway
       category: Baltimore
-    - name: Primary Cluster
+    - name: Application Cluster
+      category: Baltimore
+    - name: Storage Cluster
       category: Baltimore
 
   # What date format to use?

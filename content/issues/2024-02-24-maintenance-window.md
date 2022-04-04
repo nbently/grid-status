@@ -5,7 +5,8 @@ informational: true
 resolved: false
 severity: disrupted
 affected:
-    - Primary Cluster
+    - Application Cluster
+    - Storage Cluster
 pin: true 
 section: issue
 ---
