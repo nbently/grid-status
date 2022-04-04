@@ -10,4 +10,7 @@ pin: true
 section: issue
 ---
 
+*In Progress* -
+Maintenance is still in progress. Completion ETA updated to 8:00 p.m. EST. {{< track "2020-04-04 22:20:00" >}}
+
 Maintenance of our storage cluster will take place from 3:00 p.m. EST until 5:00 p.m. EST on April 4th, 2022. Services that depend on storage will be down during this time.
