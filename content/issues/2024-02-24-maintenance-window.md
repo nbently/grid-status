@@ -1,9 +1,13 @@
 ---
-title: Maintenance Announcement 
-date: 2024-02-24 10:35:00 
+title: Storage cluster maintenance 
+date: 2022-04-04 13:25:00
 informational: true
+resolved: false
+severity: disrupted
+affected:
+    - Primary Cluster
 pin: true 
 section: issue
 ---
 
-We will shut down our network at midnight UTC on Feb 24. This does not affect the current status.
+Maintenance of our storage cluster will take place from 3:00 p.m. EST until 5:00 p.m. EST. Services that depend on storage will be down during this time.
